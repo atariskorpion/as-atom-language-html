@@ -1,0 +1,9 @@
+# Exclude IDE noise
+.DS_Store
+
+# Exclude file types
+*.log
+
+# Exclude package folders
+bower_components
+node_modules

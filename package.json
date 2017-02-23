@@ -1,0 +1,19 @@
+{
+  "name": "as-language-html",
+  "version": "0.0.0",
+  "description": "Adds snippets to HTML files in Atom that are not supported in Atom language-html package.",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atariskorpion/as-language-html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atariskorpion/as-language-html/issues"
+  },
+
+  "dependencies": {
+  }
+}
